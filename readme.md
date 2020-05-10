@@ -29,15 +29,17 @@
 ## About The Project
 
 A simple full stack application made using Node.js and MongoDB to add and delete events.  
+
+
 ![dashboard](doc/img/dashboard.png)
 
 
 
 ### Built With
 
-* [Nodejs]
-* [Express]
-* [MongoDB]
+- Nodejs
+- Express
+- MongoDB
 
 
 
@@ -51,9 +53,10 @@ A simple full stack application made using Node.js and MongoDB to add and delete
 ### Installation
 
 - `npm i` or `yarn`
-- `node server`
 -  Create a `.env` file inside the app
 -  Insert  `PORT = PORT_NUMBER ` `DB_NAME = YOUR_DB_NAME`
+- `node server`
+
 
 
 
