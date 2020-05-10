@@ -60,13 +60,6 @@ A simple full stack application made using Node.js and MongoDB to add and delete
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
 <!-- CONTACT -->
 ## Contact
 
