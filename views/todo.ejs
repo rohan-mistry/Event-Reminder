@@ -1,0 +1,29 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo</title>
+    <link rel="stylesheet" href="/assets/styles.css">
+    <script src="http://code.jquery.com/jquery-1.12.3.min.js"></script>
+    <script src="/assets/todo-list.js"></script>
+</head>
+<body>
+    <h1>My todo app</h1>
+    <div id="todo-table">
+        <form action="/" method="POST">
+            <input type="text" name="text" id="text" placeholder="Enter a task">
+            <button type="submit">Add</button>
+        </form>
+        <br>
+        <ul>
+            <% todos.map(temp => {%>
+                <li><%= temp.text %></li>
+            <%}) %> 
+           
+        </ul>
+        
+    </div>
+ 
+    
+</body>
+</html>
