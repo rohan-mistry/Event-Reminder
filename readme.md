@@ -64,7 +64,7 @@ A simple full stack application made using Node.js and MongoDB to add and delete
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Rohan Mistry](https://www.linkedin.com/in/rohan-mistry-826714180/) - mistryrohan13@gmail.com
+[Rohan Mistry](https://www.linkedin.com/in/rohan-mistry-826714180/) - mistryrohan13@gmail.com
 
 Project Link: [https://github.com/rohan-mistry/Event-Reminder](https://github.com/rohan-mistry/Event-Reminder)
 
